@@ -4,6 +4,7 @@ MusicBox is an easy to use, robust, and child-friendly music or audio book playe
 This repository provides instructions and the necessary code.
 
 ## About ##
+
 <Here should be more information on the final product, including images.>
 
 ## Required material ##
