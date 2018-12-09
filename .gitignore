@@ -1,0 +1,2 @@
+# we don't need the macOS hidden files to show up
+.DS_Store
