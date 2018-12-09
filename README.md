@@ -7,7 +7,7 @@ This repository provides instructions and the necessary code.
 
 <Here should be more information on the final product, including images.>
 
-## Required material ##
+## Parts list ##
 
 <Here we will link to or provide a list of everything needed for a complete build.>
 
