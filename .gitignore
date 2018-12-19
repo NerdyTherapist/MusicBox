@@ -1,2 +1,5 @@
 # we don't need the macOS hidden files to show up
 .DS_Store
+
+# Here I keep my content, this is not public
+/content/*
