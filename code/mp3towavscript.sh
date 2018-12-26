@@ -1,9 +1,9 @@
-#!/bin/bash
-# written by Peter Hoß, December 9, 2018
+# MusicBox project by Peter Hoß, 2018
+# WARNING: This script has not been thoroughly tested. Use at your own risk.
+# USAGE: call the script and point it to a folder containing the MP3 files you want to merge and convert like so: "sh mp3towavscript.sh /path/to/folder". The script will produce a combined .mp3 file and a converted .wav file in the folder it's currently in.
 # NOTE: ffmpeg is needed for this script to work. Download it at: https://ffmpeg.org/download.html
-# When calling this script, a folder/directory must be provided that contains mp3 files.
 
-
+#!/bin/bash
 # Getting all the mp3-files in the directory and creating a concatenation string
 FILENAMES="concat:";
 for file in "$1"/*.mp3; do 

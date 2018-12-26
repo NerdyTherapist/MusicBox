@@ -5,17 +5,25 @@ This repository provides instructions and the necessary code.
 
 ## About ##
 
-<Here should be more information on the final product, including images.>
+After seeing the [Toniebox](https://tonies.de/) in stores and liking the concept, I wanted to create an open version of a robust audio player for my children.
+
+My final product looks like this:
+
+![MusicBox - final product](/images/final.jpeg)
+
+My kids are using figurines attached to small NFC tags and place them at the top of the box. The MusicBox then starts playing a pre-loaded audio file that belongs to that NFC tag/figurine. There is no way to pause. To stop the audio playback, it's necessary to pull the plug. The volume is adjusted by a knob (attached to a standard e-guitar potentiometer).
 
 ## Parts list ##
 
-<Here we will link to or provide a list of everything needed for a complete build.>
-
-
-## Code ##
-<Link to code files with a short explanation of what it does.>
-
+You can find everything you need (plus some optional things) in the [parts list document](/instructions/parts_list.md).
 
 ## Step by step ##
 
-<Link or Description.>
+The step by step guide for building your MusicBox is in [this document](/instructions/stepbystep.md).
+
+## Code ##
+
+Here is the code you can put onto your arduino: 
+
+In addition, there is [a script](/code/mp3towavscript.sh) for converting a number of .mp3 files to a single, merged .wav file. That way, you can play something longer (like an audiobook split into many chapters) with just a single NFC chip.
+
