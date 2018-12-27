@@ -3,11 +3,11 @@
 This document provides a list of all necessary parts for the MusicBox. The basic design is from [adafruit][]'s [Babel Fish project][], there are links to their store for the parts that are absolutely required.
 
 ## Required ##
-- Arduino: Adafruit METRO (ATmega328 16Mhz, 5V logic, USB programming, 20 digital I/O pins) [shop][shop metro]
-- Adafruit Wave Shield for Arduino Kit [shop][shop waveshield]
-- Adafruit PN532 NFC/RFID Controller Shield [shop][shop nfcshield]
-- Power cable: *either* a 7-9V polarity protected DC *or* a micro USB cable
-- an old, but *still working* speakerbox
+- Arduino: Adafruit METRO (ATmega328 16Mhz, 5V logic, USB programming, 20 digital I/O pins) →[shop][shop metro]
+- Adafruit Wave Shield for Arduino Kit →[shop][shop waveshield]
+- Adafruit PN532 NFC/RFID Controller Shield →[shop][shop nfcshield]
+- Power cable: **either** a 7-9V polarity protected DC **or** a micro USB cable
+- an old, but **still working** speakerbox
 - standard 3.5mm headphone jack (solderable)
 - SD/MMC card
 - Mifare classic NFC cards (1 is included in the NFC controller kit - there are also small round chips)
