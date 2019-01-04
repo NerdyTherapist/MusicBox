@@ -1,4 +1,7 @@
 # MusicBox
+
+WORK IN PROGRESS - These instructions are not yet complete, but I'm working on it.
+
 MusicBox is an easy to use, robust, and child-friendly music or audio book player.
 
 This repository provides instructions and the necessary code.
